@@ -9,7 +9,7 @@ public class MiPrograma {
         primerPersona = new Persona();
         
         // Escribimos los datos con los metodos setters
-        primerPersona.ponerNombre("Cristian");
+        primerPersona.ponerNombre("Fernando");
         primerPersona.ponerApellidos("Achocalla Estrada");
         primerPersona.ponerTelefono(67786830);
         primerPersona.ponerCorreo("achocalla@gmail.com");
